@@ -1,17 +1,23 @@
-# gulimall-admin-vue-app
+# fyjmall-admin
 
 #### 介绍
-谷粒商城后台管理系统
+fyjmall后台管理系统
 
 #### 软件架构
 软件架构说明
 
 
 #### 安装教程
+0. npm install -g cnpm --registry=https://registry.npm.taobao.org
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. npm install   如果报错：接着下面第二步
+
+2. npm install chromedriver --chromedriver_cdnurl=http://cdn.npm.taobao.org/dist/chromedriver
+
+3. npm run dev
+  如果报错，就  npm i node-sass --sass_binary_site=https://npm.taobao.org/mirrors/node-sass/
+  
+
 
 #### 使用说明
 
